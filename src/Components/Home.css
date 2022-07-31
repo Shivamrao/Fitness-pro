@@ -1,0 +1,77 @@
+.button{
+    border-radius: 20px;
+    border: none;
+    background-color:rgba(0, 0, 0, 0.42) ;
+    color: wheat;
+    
+    width: 10rem;
+    height: max-content;
+    padding: 15px;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-weight:bolder;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.Navbar{
+    background-color: rgba(0, 0, 0, 0.42);
+    height: 100px;
+    margin-bottom: 0;
+}
+h1{
+    /* margin: 50px auto; */
+    text-align: center;
+    color: wheat;
+}
+.heading{
+    justify-content: center;
+   
+   
+}
+
+.container2{
+    background-image: "";
+    height: 200px;
+    width: 400px;
+    background-color: aqua;
+    /* margin: 20px; */ 
+    margin-left: 150px;
+    margin-top: 20px;
+    border-radius: 20px;
+
+}
+.container1{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.Text{
+    color: black;
+    /* position: absolute; */
+    margin-left: 5px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 400%;
+    background-color: rgba(245, 222, 179, 0.728);
+}
+.Text2{
+    margin-left: 5px;
+    margin-top: 50px;
+    font-size: 300%;
+    background-color: rgba(245, 222, 179, 0.728);
+    text-align: center;
+}
+.Text1{
+    font-size: 400%;
+    background-color:  rgba(0, 0, 0, 0.42);
+    color: aliceblue;
+    text-align: center;
+    font-weight: 800;
+}
+.textsmall{
+    font-size: 300%;
+    
+    color: wheat;
+    margin-left: 160px;
+    margin-top: 20px;
+}
