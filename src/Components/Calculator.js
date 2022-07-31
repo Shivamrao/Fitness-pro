@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Calculator() {
-  return (
-    <div>Calculator</div>
-  )
+  return <div>Calculator</div>;
 }
 
-export default Calculator
+export default Calculator;

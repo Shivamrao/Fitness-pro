@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Nutrtion() {
-  return (
-    <div>Nutrtion</div>
-  )
+  return <div>Nutrtion</div>;
 }
 
-export default Nutrtion
+export default Nutrtion;

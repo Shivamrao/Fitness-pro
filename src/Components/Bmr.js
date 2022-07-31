@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Bmr() {
-  return (
-    <div>Bmr</div>
-  )
+  return <div>Bmr</div>;
 }
 
-export default Bmr
+export default Bmr;
